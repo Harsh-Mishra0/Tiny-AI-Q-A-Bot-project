@@ -85,6 +85,16 @@ streamlit run app.py
 * Tested various AI questions and verified reliable responses.
 
 ---
+## Screenshots
+
+**Chat Interface:**  
+![Chat Opening](screenshots/chat_opening.png)
+
+**User Question:**  
+![User Question](screenshots/user_question.png)
+
+**AI Response:**  
+![AI Response](screenshots/ai_response.png)
 
 ## **Future Improvements**
 
@@ -111,4 +121,5 @@ pip install -r requirements.txt
 ```
 
 ---
+
 
